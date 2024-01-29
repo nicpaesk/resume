@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.1.11)  29 JAN 2024 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.1.11)  29 JAN 2024 17:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -787,52 +787,52 @@ File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 32.
-
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 34.
+ (/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontawesome/ufontawesomeone.fd
+File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
+)
 Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 42.
-(/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontawesome/ufontawesomeone.fd
-File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-)
+
 Underfull \hbox (badness 10000) in paragraph at lines 40--43
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 53.
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 56.
+(Font)              scaled to size 9.0pt on input line 54.
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 57.
 (/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 56.
+(Font)              scaled to size 9.0pt on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 102.
+(Font)              scaled to size 8.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 102.
+(Font)              scaled to size 7.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 102.
+(Font)              scaled to size 7.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 102.
+(Font)              scaled to size 9.0pt on input line 103.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 
-Overfull \hbox (6.93774pt too wide) in paragraph at lines 199--202
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+
+ []
+
+
+Overfull \hbox (6.93774pt too wide) in paragraph at lines 200--203
 []\T1/Raleway-TLF/b/n/9 Captain of a 24-person cheer-lead-ing team \T1/Raleway-TLF/m/n/9 / \T1/Raleway-TLF/b/n/9 Re-gional level com-pet-i-tive swim-mer \T1/Raleway-TLF/m/n/9 / \T1/Raleway-TLF/b/n/9 Taek-wondo black belt and teacher 
  []
 
@@ -855,7 +855,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  117i,7n,121p,668b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/raleway/a_bzmckq.enc}{/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/raleway/a_2bcjq6.enc}{/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/impallari/raleway/Raleway-Bold.pfb></Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/impallari/raleway/Raleway-Italic.pfb></Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/impallari/raleway/Raleway-Regular.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (1 page, 108276 bytes).
+Output written on main.pdf (1 page, 108414 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)

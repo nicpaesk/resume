@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1706544876.25365 "/Users/nicpaesk/git/resume/main.tex" "main.pdf" "main" 1706544877.3535 0
+["pdflatex"] 1706545311.69638 "/Users/nicpaesk/git/resume/main.tex" "main.pdf" "main" 1706545312.71636 0
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm0900.tfm" 1704987609.80594 3156 6d4f5755d77638125f6f89de4f3bb757 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1704987578.18097 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1704987578.1812 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -193,11 +193,11 @@
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/raleway/raleway.sty" 1706544869.91957 6162 a04e0041ebc98a0eb7a80860eb14f0e0 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty" 1706544828.41952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1706544841.79494 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
-  "/Users/nicpaesk/git/resume/main.tex" 1706541060 9818 3515cc407bebbf609a2165ca14c2d027 ""
+  "/Users/nicpaesk/git/resume/main.tex" 1706545310.99332 9832 23b4279d2005ae5a7ce5767cc0290e0a ""
   "developercv.cls" 1706541060 5623 f93eb215bd5bbb27072f4ff8810a3eef ""
-  "main.aux" 1706544877.16677 387 2f2de1cd098084ceb740abed5eee5740 "pdflatex"
-  "main.out" 1706544877.0544 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1706541060 9818 3515cc407bebbf609a2165ca14c2d027 ""
+  "main.aux" 1706545312.53743 387 2f2de1cd098084ceb740abed5eee5740 "pdflatex"
+  "main.out" 1706545312.42531 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1706545310.99332 9832 23b4279d2005ae5a7ce5767cc0290e0a ""
   (generated)
   "main.aux"
   "main.log"
