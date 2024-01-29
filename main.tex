@@ -1,0 +1,203 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+\usepackage{multicol}
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+\setlength{\columnsep}{0mm}
+%----------------------------------------------------------------------------------------
+\usepackage{lipsum}  
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.5\textwidth} 
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	{ \fontsize{16}{20} \textcolor{black}{\textbf{\MakeUppercase{Nicolas koutsandréou}}}} % First name
+	
+	\vspace{6pt}
+	
+	{\Large Master's Student $\sim$ Economics} % Career or current job title
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.2\textwidth} % 20% of the page width for the first row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+    \icon{Phone}{11}{\href{tel:+33607716884}{06 07 71 68 84}}\\
+    \icon{MapMarker}{11}{Paris, France}\\
+    \icon{LinkedinSquare}{11}{\href{https://www.linkedin.com}{/in/nicpaesk}}\\  
+	
+\end{minipage}
+\begin{minipage}[t]{0.27\textwidth} % 27% of the page width for the second row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\icon{Envelope}{11}{\href{mailto:nicolas@koutsandreou.com}{nicolas@koutsandreou.com}}\\	
+    \icon{Globe}{11}{French and Brazilian}\\ 
+    \icon{BirthdayCake}{11}{23 years old}\\
+      
+    
+\end{minipage}
+
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+\vspace{-10 pt}
+\begin{minipage}[t]{0.25\textwidth}
+    \cvsect{Languages}
+	\vspace{-15pt}
+    \begin{itemize}[noitemsep]
+        \item \textbf{Portuguese:} Native
+        \item \textbf{French:} Native
+        \item \textbf{English:} Fluent
+        \item \textbf{Spanish:} Fluent
+        \end{itemize}
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.72\textwidth}
+    \cvsect{Skills}
+    \vspace{-6pt}
+    
+    \begin{minipage}[t]{0.23\textwidth}
+        \textbf{Statistics and Data:}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.7\textwidth}
+      R and Stata (Advanced), Python, Excel and VBA (Intermediate), SQL (Beginner)
+    \end{minipage}
+    \vspace{1mm}
+    
+    \begin{minipage}[t]{0.23\textwidth}
+        \textbf{Web:}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.71\textwidth}
+JavaScript, HTML, CSS (intermediate)
+    \end{minipage}
+    \begin{minipage}[t]{0.23\textwidth}
+        \textbf{Other:}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.71\textwidth}
+Qualtrics (advanced), AI Prompt Engineering, Web scrapping
+    \end{minipage}
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\vspace{-6 pt}
+\cvsect{Education}
+\begin{entrylist}
+    \entry
+		{2021 - Present}
+		{MSc Quantitative Economic Analysis}
+		{Dauphine PSL, France}
+		{Master Thesis (in progress): \textit{Competition in Pharmaceutical-Physician Transfer Markets: \\Modeling and Empirical Analysis in France.}\\ Relevant coursework: Empirical Industrial Organization, Macroeconomics, Microeconometrics, Machine Learning, Time Series, Game Theory, Health Economics...}
+    \entry
+		{2022 - 2023\\\footnotesize{Gap year}}
+		{Mathematical Statistics (M347)}
+		{Open University, UK}
+		{Coursework from the third-year undergraduate degree in mathematics. GPA 4.0/4.0, \href{https://www.scholaro.com/gpa-calculator/UK}{converted}.\\ Probability Theory, Classical Inference, Bayesian Statistics, Linear Modeling (GLM).}
+	\entry
+		{2018 - 2021}
+		{B.A. Political Science}
+		{SciencesPo Paris, France}
+		{\vspace{-10pt}
+             \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+		    \item Major in Economics. GPA 3.5/4.0, \href{https://www.scholaro.com/gpa-calculator/France}{converted}.
+                \item Exchange Program at Northeastern University, United States. 
+		\end{itemize}}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+\vspace{-10 pt}
+\cvsect{Work Experience}
+\begin{entrylist}
+	\entry
+        {1/2023 -- 9/2023}
+		{Research Assistant}
+		{LEDa, Dauphine PSL}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item Assisted \href{https://sites.google.com/view/daniel-herrera-araujo/home}{Daniel Herrera} on the valuation of mortality and morbidity in France (ANR JCJC VHEALTH grant).
+            \item Reviewed Literature on Survey Design, WTP for risk reductions and valuation of QALYs. 
+            \item Helped design and code a complex Qualtrics survey with dynamic JavaScript custom code.
+            \item Implemented the survey in three pilot studies with \href{https://www.prolific.com/}{Prolific} and helped set up the large-scale survey with 3000+ respondents from \href{https://www.kantar.com}{Kantar's} consumer panel. 
+            \item Conduced data cleaning and econometric analysis in Stata: censored regressions to estimate the WTP for risk reductions and calculate the parameters (VSC, VSL, VNF...). Produced presentation-quality graphics and tables. The results were included in the Pre-Analysis paper and the PI conference presentations. 
+        \end{itemize} 
+        }
+	\entry
+		{11/2021 -- 1/2022}
+		{Field Research Assistant}
+		{LIEPP, Sciences Po Paris}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item Collected survey data for the project 123CP, directed by \href{https://www.sciencespo.fr/liepp/en/users/carlobarone.html}{Carlo Barone}, on education inequalities. 
+            \item Applied sociology methods and skills to the collection due to the sensitive nature of the data (personal finances, residency status, learning disabilities of their children, family environment...) and the inherent difficulties of surveying the studied population (mostly low-income families, first-generation immigrants, and non-french speakers).
+        \end{itemize}}
+	\entry
+		{6/2019 -- 8/2019}
+		{Research Assistant}
+		{CDS-UnB, Brazil}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item Worked in a major cost-benefit analysis conducted by the National Water Agency to study the construction of 500 small hydropower plants (SHPs) in the Paraguay River basin.
+            \item Supervised by \href{http://lattes.cnpq.br/5290901839648752}{Elimar Nascimento} and Cristovam Buarque (former Senator and Minister of Education).
+            \item Conduced a literature review on the socio-economic and environmental impacts of SHPs, and basic statistical analysis of survey data collected from the local population. The results were included in two of the final reports: \href{https://www.gov.br/ana/pt-br/assuntos/gestao-das-aguas/planos-e-estudos-sobre-rec-hidricos/plano-de-recursos-hidricos-rio-paraguai/relatorio-final_pesca-difusa.pdf}{"Local Fishing"} and  \href{https://www.gov.br/ana/pt-br/assuntos/gestao-das-aguas/planos-e-estudos-sobre-rec-hidricos/plano-de-recursos-hidricos-rio-paraguai/relatorio-final_turismo-de-pesca.pdf}{"Fishing Tourism"}. 
+            \item Prepared and presented progress reports to the team of researchers and policymakers, including personal suggestions on the study methodology. 
+        \end{itemize} 
+        }
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	Extracurricular
+%----------------------------------------------------------------------------------------
+\vspace{-10 pt}
+	\cvsect{Extracurriculars}
+    \vspace{-10pt}
+    
+    \hspace{26mm} 
+
+
+\begin{entrylist}
+\entry
+		{2018 -- 2021}
+		{Volunteer}
+		{\href{https://www.internationali.org/sobre}{Internationali Negotia}, Brazil}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+           \item Elaborated a business development plan, recruited and trained staff, and managed a team of 3 volunteers. 
+           \item Organized the NGO's pedagogical events in schools, which reached 1000+ students.
+        \end{itemize} 
+        }
+\entry
+		{2018 -- 2019}
+		{Junior Consultant}
+		{Junior Consulting Sciences Po}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item Led a recruitment campaign to staff the "Great National Debate" (2019) in Nouvelle-Aquitaine, France. 
+            \item Reached businesses in Nouvelle-Aquitaine to sell the Junior Enterprise services. 
+        \end{itemize} 
+        }
+\entry
+		{2017}
+		{Finalist at the Brazilian National History Olympics}
+		{Unicamp, Brazil}
+            {}
+\end{entrylist}
+    \vspace{-10pt}
+    \textbf{Captain of a 24-person cheerleading team}\slashsep
+    \textbf{Regional level competitive swimmer}\slashsep
+    \textbf{Taekwondo black belt and teacher} 
+
+\end{document}
