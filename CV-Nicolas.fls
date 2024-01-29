@@ -1,7 +1,7 @@
 PWD /Users/nicpaesk/git/resume
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/nicpaesk/git/resume/main.tex
-OUTPUT main.log
+INPUT /Users/nicpaesk/git/resume/CV-Nicolas.tex
+OUTPUT CV-Nicolas.log
 INPUT ./developercv.cls
 INPUT developercv.cls
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/extarticle.cls
@@ -277,21 +277,21 @@ INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/raleway/T1Raleway-TLF.fd
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/raleway/T1Raleway-TLF.fd
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
-INPUT ./main.aux
-INPUT ./main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT ./CV-Nicolas.aux
+INPUT ./CV-Nicolas.aux
+INPUT CV-Nicolas.aux
+OUTPUT CV-Nicolas.aux
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ly1/ly1ptm.fd
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ly1/ly1ptm.fd
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ly1/ly1ptm.fd
-INPUT ./main.out
-INPUT ./main.out
-INPUT main.out
-INPUT main.out
-INPUT ./main.out
-INPUT ./main.out
-OUTPUT main.out
-OUTPUT main.pdf
+INPUT ./CV-Nicolas.out
+INPUT ./CV-Nicolas.out
+INPUT CV-Nicolas.out
+INPUT CV-Nicolas.out
+INPUT ./CV-Nicolas.out
+INPUT ./CV-Nicolas.out
+OUTPUT CV-Nicolas.out
+OUTPUT CV-Nicolas.pdf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -353,9 +353,9 @@ INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/vf
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/impallari/raleway/Raleway-Italic-tlf-t1--base.tfm
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/impallari/raleway/Raleway-Regular-tlf-t1.vf
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1--base.tfm
-INPUT main.aux
-INPUT ./main.out
-INPUT ./main.out
+INPUT CV-Nicolas.aux
+INPUT ./CV-Nicolas.out
+INPUT ./CV-Nicolas.out
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/raleway/a_bzmckq.enc
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/raleway/a_2bcjq6.enc
 INPUT /Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesomeone.enc
