@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1706545788.6544 "/Users/nicpaesk/git/resume/CV-Nicolas.tex" "CV-Nicolas.pdf" "CV-Nicolas" 1706545789.604 0
+["pdflatex"] 1707230095.50717 "/Users/nicpaesk/git/resume/CV-Nicolas.tex" "CV-Nicolas.pdf" "CV-Nicolas" 1707230096.53052 0
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm0900.tfm" 1704987609.80594 3156 6d4f5755d77638125f6f89de4f3bb757 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1704987578.18097 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1704987578.1812 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -134,7 +134,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1704987668.99618 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1704987669.63544 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1704987670.93965 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1706544875.29084 116729 7bf881dbc4926319cf56a015a90b391a ""
+  "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1707229211.048 116908 c14085f3ea7ad8b8d744e54380fcbd33 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1704987979.76978 24227688 ad60909f0810b0d71770d603c1625147 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1706544873.4502 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1706544873.45043 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -193,10 +193,10 @@
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/raleway/raleway.sty" 1706544869.91957 6162 a04e0041ebc98a0eb7a80860eb14f0e0 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty" 1706544828.41952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1706544841.79494 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
-  "/Users/nicpaesk/git/resume/CV-Nicolas.tex" 1706545318.90099 9832 23b4279d2005ae5a7ce5767cc0290e0a ""
-  "CV-Nicolas.aux" 1706545789.42893 387 2f2de1cd098084ceb740abed5eee5740 "pdflatex"
-  "CV-Nicolas.out" 1706545789.32263 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV-Nicolas.tex" 1706545318.90099 9832 23b4279d2005ae5a7ce5767cc0290e0a ""
+  "/Users/nicpaesk/git/resume/CV-Nicolas.tex" 1707230093.28834 9712 1e93d223340a89060cd059bd5fdb9e9f ""
+  "CV-Nicolas.aux" 1707230096.32911 387 2f2de1cd098084ceb740abed5eee5740 "pdflatex"
+  "CV-Nicolas.out" 1707230096.19865 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV-Nicolas.tex" 1707230093.28834 9712 1e93d223340a89060cd059bd5fdb9e9f ""
   "developercv.cls" 1706541060 5623 f93eb215bd5bbb27072f4ff8810a3eef ""
   (generated)
   "CV-Nicolas.aux"

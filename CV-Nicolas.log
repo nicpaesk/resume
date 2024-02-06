@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.1.11)  29 JAN 2024 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.1.11)  6 FEB 2024 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -808,6 +808,8 @@ File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-T
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 89.
 
 Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
@@ -831,11 +833,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--197
 
  []
 
-
-Overfull \hbox (6.93774pt too wide) in paragraph at lines 200--203
-[]\T1/Raleway-TLF/b/n/9 Captain of a 24-person cheer-lead-ing team \T1/Raleway-TLF/m/n/9 / \T1/Raleway-TLF/b/n/9 Re-gional level com-pet-i-tive swim-mer \T1/Raleway-TLF/m/n/9 / \T1/Raleway-TLF/b/n/9 Taek-wondo black belt and teacher 
- []
-
 [1
 
 {/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] (CV-Nicolas.aux)
@@ -847,15 +844,15 @@ Package rerunfilecheck Info: File `CV-Nicolas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24814 strings out of 474486
- 490618 string characters out of 5740897
- 1964525 words of memory out of 5000000
- 46649 multiletter control sequences out of 15000+600000
- 674541 words of font info for 73 fonts, out of 8000000 for 9000
+ 24816 strings out of 474486
+ 490666 string characters out of 5740897
+ 1963525 words of memory out of 5000000
+ 46650 multiletter control sequences out of 15000+600000
+ 688153 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,7n,121p,674b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,7n,121p,674b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/raleway/a_bzmckq.enc}{/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/raleway/a_2bcjq6.enc}{/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/impallari/raleway/Raleway-Bold.pfb></Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/impallari/raleway/Raleway-Italic.pfb></Users/nicpaesk/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/impallari/raleway/Raleway-Regular.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV-Nicolas.pdf (1 page, 108414 bytes).
+Output written on CV-Nicolas.pdf (1 page, 108017 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
